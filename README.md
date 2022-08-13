@@ -9,8 +9,10 @@
 
 # 毎回の操作
 
-docker run -p 8888:8888 -v /Users/poclab_macmini/PycharmProjects/docker-jupyter
- --name my-lab d723190a8650
+docker run -p 8888:8888 -v 
 
 注意事項
 Start Docker Desktop when you log in
+
+# 参考資料
+https://datawokagaku.com/startjupyternote/
